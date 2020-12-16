@@ -12,3 +12,16 @@ body
 	box-sizing: border-box;
 	font-family: sans-serif;
 }
+
+.menu-bar
+{
+	background: rgb(0,100,0);
+	text-align: center;
+}
+
+.menu-bar ul
+{
+	display: inline-flex;
+	list-style: none;
+	color: #fff;
+}
