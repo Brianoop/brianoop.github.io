@@ -25,3 +25,10 @@ body
 	list-style: none;
 	color: #fff;
 }
+
+.meu-bar ul li
+{
+	width: 120px;
+	margin: 15px;
+	padding: 15px;
+}
