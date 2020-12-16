@@ -79,3 +79,32 @@ body
 	border-radius: 0;
 	text-align: left;
 }
+
+.menu-bar ul li:hover .sub-menu-1 ul li:last-child
+{
+	border-bottom: none !important;
+}
+
+.menu-bar ul li:hover .sub-menu-1 ul li a:hover
+{
+	color: #b2ff00;
+}
+
+.fa-angle-right
+{
+	float: right;
+}
+
+.sub-menu-2
+{
+	display: none;
+}
+
+.hover-me:hover .sub-menu-2
+{
+	position: absolute;
+	display: block;
+	margin-top: -40px;
+	margin-left: 140px;
+	background: rgb(0,100,0);
+}
