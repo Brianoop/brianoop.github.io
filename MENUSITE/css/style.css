@@ -32,3 +32,15 @@ body
 	margin: 15px !important;
 	padding: 15px !important;
 }
+
+.menu-bar ul li a
+{
+	text-decoration: none;
+	color: #fff;
+}
+
+.active, .menu-bar ul li:hover
+{
+	background: #2bab0d;
+	border-radius: 3px;
+}
