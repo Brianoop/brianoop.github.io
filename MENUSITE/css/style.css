@@ -7,7 +7,7 @@
 
 body
 {
-	background-image: url(images/background.jpg) !important;
+	background-image: url("../images/background.jpg") !important;
 	background-size: cover !important;
 	background-position: center !important;
 	font-family: sans-serif !important;
@@ -26,7 +26,7 @@ body
 	color: #fff;
 }
 
-.meu-bar ul li
+.menu-bar ul li
 {
 	width: 120px !important;
 	margin: 15px !important;
